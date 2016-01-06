@@ -1,6 +1,6 @@
 package b
 
-import "a github.com/skrassiev/packagea"
+import a "github.com/skrassiev/packagea"
 import "fmt"
 
 var B = 2
